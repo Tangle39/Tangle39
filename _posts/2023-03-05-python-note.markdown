@@ -5,7 +5,8 @@ date:   2023-03-05 20:03:58 +0800
 categories: python
 ---
 
-目录
+# 目录
+
 * [基本数据类型](#基本数据类型)
 	* [列表](#列表)
 		* [列表推导式](#列表推导式)
@@ -16,7 +17,7 @@ categories: python
 * [语句](#语句)
 * [语法解析](#语法解析)
 	* [不定参数](#不定参数)
-	* [**DocStrings**](#**DocStrings**)
+	* [DocStrings](#DocStrings)
 * [内建函数](#内建函数)
 	* [join](#join)
 	* [format](#format)
@@ -205,7 +206,7 @@ g(expected_type_list='InvalidField')
 
 本质是将*/**后面的可迭代对象解包出来
 
-## **DocStrings**
+## DocStrings
 
 文档字符串是一个重要工具，用于解释文档程序，帮助你的程序文档更加简单易懂。
 
