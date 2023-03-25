@@ -31,6 +31,8 @@ github_username:  Tangle39
 theme: minima
 plugins:
   - jekyll-feed
+  #- jekyll-music-player
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

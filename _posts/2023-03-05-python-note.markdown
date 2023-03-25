@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "python note"
-date:   2023-03-05 20:03:58 +0800
+date:   2023-02-05 20:03:58 +0800
 categories: python
 ---
 
@@ -847,6 +847,12 @@ print(buf.raw)
 ## markdown-toc
 
 生成md文件的目录
+
+pip安装之后直接执行
+
+`markdown-toc {md file}`
+
+即可生成目录
 
 可选参数
 
